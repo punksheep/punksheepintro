@@ -1,0 +1,22 @@
+{
+  "name": "punksheep intro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bison": "^1.1.1",
+    "express": "^4.16.2",
+    "log": "^1.4.0",
+    "memcache": "0.3.0",
+    "sanitizer": "^0.1.2",
+    "socket.io": "^2.0.4",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "scripts": {
+    "start": "node server/js/main.js"
+  },
+  "author": "punks Marc",
+  "license": "punksheep agreement"
+}
